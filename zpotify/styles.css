@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+main{
+display; grid;
+}
+img {
+    width: 50px;
+}
+.contendor-principal {
+    width: 608px;
+    margin: 0 auto;
+    background: #F2FCFF;
+    border: 2px solid #C3F1FF;   
+}
+
+.caja-artistas{
+    display; grid;
+
+}
